@@ -1,0 +1,10 @@
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\bin\Debug\BufferImplementation.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\bin\Debug\BufferImplementation.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.csprojResolveAssemblyReference.cache
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\bin\Debug\BufferImplementation.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\bin\Debug\BufferImplementation.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.csprojResolveAssemblyReference.cache
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\BufferImplementation\obj\Debug\BufferImplementation.pdb

@@ -1,0 +1,30 @@
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.exe.config
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.exe.config
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.csprojResolveAssemblyReference.cache
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.Properties.Resources.resources
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.csproj.GenerateResource.Cache
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.exe
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.exe
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.MainForm.resources
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.exe
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.csprojResolveAssemblyReference.cache
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.MainForm.resources
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.Properties.Resources.resources
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\obj\Debug\PerformanceComparer.csproj.GenerateResource.Cache
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.exe
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\PerformanceComparer.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\Stack.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\CommonInterfaces.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\BufferImplementation.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\Stack.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\CommonInterfaces.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\BufferImplementation.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\Stack.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\CommonInterfaces.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\BufferImplementation.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\Stack.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\CommonInterfaces.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\PerformanceComparer\bin\Debug\BufferImplementation.pdb

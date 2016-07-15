@@ -1,0 +1,18 @@
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\Stack.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\Stack.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\BufferImplementation.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\CommonInterfaces.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\BufferImplementation.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\CommonInterfaces.pdb
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.dll
+D:\Arch_Slavik\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\Stack.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\Stack.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\BufferImplementation.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\CommonInterfaces.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\BufferImplementation.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\bin\Debug\CommonInterfaces.pdb
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.dll
+\\vyacheslavch\d$\!   Slava\OneDrive\C# cource\Lesson_14_Forms\Lesson14FormsHW\PerformanceComparer\Stack\obj\Debug\Stack.pdb
